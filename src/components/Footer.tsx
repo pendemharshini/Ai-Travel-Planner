@@ -63,7 +63,7 @@ export const Footer = () => {
         </div>
 
         <div className="pt-10 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-slate-400 text-xs">© 2026 AI Travel Planner. All rights reserved.</p>
+          <p className="text-slate-400 text-xs">© 2026 Ai Travel Planner. All rights reserved.</p>
           <div className="flex items-center space-x-6 text-xs text-slate-400">
             <a href="#" className="hover:text-slate-600">English (US)</a>
             <a href="#" className="hover:text-slate-600">INR</a>

@@ -266,7 +266,7 @@ export const LandingPage = () => {
             </div>
             <div className="relative z-10 max-w-3xl mx-auto">
               <h2 className="text-4xl md:text-5xl font-bold text-white mb-8">Ready to start your next journey?</h2>
-              <p className="text-xl text-white/70 mb-12">Join thousands of travelers who plan their trips with AI Travel Planner.</p>
+              <p className="text-xl text-white/70 mb-12">Join thousands of travelers who plan their trips with Ai Travel Planner.</p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                 <Link to="/plan" className="w-full sm:w-auto bg-brand-600 text-white px-10 py-4 rounded-full font-bold hover:bg-brand-700 transition-all shadow-xl shadow-brand-600/20">
                   Plan My Trip
