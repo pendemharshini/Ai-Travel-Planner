@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel Planner",
+  "description": "A high-end AI-powered travel planning platform that generates personalized itineraries and predicts trip costs with precision.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
